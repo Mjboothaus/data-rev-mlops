@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/bb8e9df99728477e879cc7fa11a1addb/artifacts
+end_time: 1660376497421
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: bb8e9df99728477e879cc7fa11a1addb
+run_uuid: bb8e9df99728477e879cc7fa11a1addb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660376495774
+status: 3
+tags: []
+user_id: mjboothaus
